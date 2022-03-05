@@ -1,3 +1,7 @@
+# Personal Ignore
+.vscode/
+
+
 # Miscellaneous
 *.class
 *.log

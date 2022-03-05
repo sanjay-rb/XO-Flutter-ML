@@ -1,3 +1,3 @@
 # XO
 
-XO is an gaming app
+XO is a gaming app
